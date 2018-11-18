@@ -1,0 +1,10 @@
+<a href="new">Add a Dish</a>
+<h1>Welcome to CRUDelicious</h1>
+<p>Check out some recent dishes!</p>
+<hr>
+<div>
+    @foreach(var dish in Model)
+    {
+       <p><a href="@dish.DishId">@dish.Name</a> by @dish.Chef</p> 
+    }
+</div>

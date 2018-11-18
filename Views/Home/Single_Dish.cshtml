@@ -1,0 +1,14 @@
+@model Dish
+
+<a href="/">Home</a>
+<h1>@Model.Name</h1>
+<h4>@Model.Chef</h4>
+<hr>
+<p>@Model.Description</p>
+<p>Calories: @Model.Calories</p>
+<p>Tastinesss: @Model.Tastiness</p>
+
+<a href="delete/@Model.DishId">Delete</a>
+<form action="edit/@Model.DishId" method="post">
+    <input type="submit" value="Edit">
+</form>

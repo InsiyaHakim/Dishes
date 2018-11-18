@@ -1,0 +1,11 @@
+C:\Users\insiya\Documents\C#\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.deps.json
+C:\Users\insiya\Documents\C#\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.runtimeconfig.json
+C:\Users\insiya\Documents\C#\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.runtimeconfig.dev.json
+C:\Users\insiya\Documents\C#\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.dll
+C:\Users\insiya\Documents\C#\CRUDelicious\bin\Debug\netcoreapp2.0\CRUDelicious.pdb
+C:\Users\insiya\Documents\C#\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.csprojResolveAssemblyReference.cache
+C:\Users\insiya\Documents\C#\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.csproj.CoreCompileInputs.cache
+C:\Users\insiya\Documents\C#\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.AssemblyInfoInputs.cache
+C:\Users\insiya\Documents\C#\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.AssemblyInfo.cs
+C:\Users\insiya\Documents\C#\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.dll
+C:\Users\insiya\Documents\C#\CRUDelicious\obj\Debug\netcoreapp2.0\CRUDelicious.pdb
